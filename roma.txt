@@ -3,9 +3,13 @@ encontro de amigos
 alis 
 vitoria 
 maria
+<<<<<<< HEAD
 =======
 amigosa
 amigos
 amigosa
 amigos
 >>>>>>> terceiro_branch
+=======
+miguel
+>>>>>>> primeiro_branch
